@@ -8,6 +8,8 @@ end
 # Part II
 def max_2_sum arr
   # YOUR CODE HERE
+
+arr.sort.last(2).sum
 end
 
 # Part III
