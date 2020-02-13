@@ -12,6 +12,7 @@ class Dessert
   end
   def delicious?
     # your code here
+    @name = name
   end
 end
 
